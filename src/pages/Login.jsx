@@ -59,7 +59,7 @@ const Login = () => {
                 <p>Need Help?</p>
               </div>
               <p className="py-8">
-                <span className="text-gray-600">New to NETFLIX?</span>{" "}
+                <span className="text-gray-600">New to CATFLIX?</span>{" "}
                 <Link to="/signup">Sign Up</Link>
               </p>
             </form>

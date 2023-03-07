@@ -18,7 +18,7 @@ const Navbar = () => {
     <div className="flex justify-between p-4 z-[100] absolute w-full">
       <Link to="/">
         <h1 className="text-red-600 text-4xl font-bold cursor-pointer">
-          NETFLIX
+          CATFLIX
         </h1>
       </Link>
 
